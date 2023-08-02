@@ -9,7 +9,7 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQG4x7erM2QIyA/profile-displaybackgroundimage-shrink_350_1400/0/1690979423664?e=1696464000&v=beta&t=gwJ51Sl7F9KlSyrjNtPNRhd9iXy_X0ZMJ6p01eFZoAg" />
 
 ## Software I use:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"`width`5% />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         
