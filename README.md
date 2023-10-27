@@ -1,7 +1,8 @@
   # 👋 Hi, I’m Ricardo
 - 👀 I’m interested in Tech and Community
-- 🌱 I’m currently learning Scala and the Quantexa environment
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working at Xander Talent as a Consultant
+- 🏆 I'm a certified Quantexa Data Engineer!
+- 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me? Ricardo.lora@xandertalent.com
 
  ![](https://komarev.com/ghpvc/?username=RicardoLMES&color=ff69b4)
