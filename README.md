@@ -3,6 +3,8 @@
 - 🌱 I’m currently working at Xander Talent as a Consultant
 - 🏆 I'm a certified Quantexa Data Engineer!
 - 💞️ I’m looking to collaborate on AI Projects
+- 📘 Currently studying Computer Science!
+- 🤓 And learning Azure.
 - 📫 How to reach me? Ricardo.lora@xandertalent.com
 
  ![](https://komarev.com/ghpvc/?username=RicardoLMES&color=ff69b4)
