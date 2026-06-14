@@ -142,7 +142,49 @@ Automation            Python | n8n | Raspberry Pi | Sensors
 App Development       Kotlin | Android | Jetpack Compose
 Data Platforms        Snowflake | AWS | Streamlit
 Engineering Practice  Git | Testing | Clean Code | Maintainability
-<!---
-RicardoLMES/RicardoLMES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoLMES&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoLMES&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+## 🔭 Currently Learning & Improving
+
+- Kotlin Android development
+- Jetpack Compose
+- Snowflake engineering patterns
+- Automation architecture
+- IoT monitoring systems
+- Better app architecture and maintainability
+- Production-grade data engineering practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in data engineering, automation, software projects, and practical tech that solves real problems.
+
+<p align="center">
+  <a href="https://github.com/RicardoLMES">
+    <img src="https://img.shields.io/badge/GitHub-RicardoLMES-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="[https://www.linkedin.com/in/ricardo-lora-mesquita/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building data systems, automations, and apps that turn ideas into useful tools.</i>
+</p>
